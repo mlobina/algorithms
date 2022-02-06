@@ -22,4 +22,6 @@ my_guess = 42
 
 print(binary_search(my_lst, my_guess))
 
+print('h')
+
 
